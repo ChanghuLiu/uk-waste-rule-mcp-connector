@@ -1,0 +1,10 @@
+{
+  "name": "uk-waste-rule-mcp-connector",
+  "version": "1.0.0",
+  "description": "Evidence-linked England waste regulatory preflight for waste compliance workflows.",
+  "mcpServers": {
+    "uk-waste-rule-mcp": {
+      "httpUrl": "https://waste.regevidencehub.com/mcp"
+    }
+  }
+}
